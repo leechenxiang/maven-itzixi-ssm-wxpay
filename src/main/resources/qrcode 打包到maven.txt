@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=E:\QRCode.jar -DgroupId=com.swetake.QRCode -DartifactId=QRCode -Dversion=3.0 -Dpackaging=jar  
